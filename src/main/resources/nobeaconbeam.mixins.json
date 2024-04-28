@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.rapsac.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+      "BeaconMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
